@@ -1,5 +1,3 @@
-[Reading 2 lines from start (total: 2 lines, 0 remaining)]
-
 numpy>=2.0
 torch>=2.7
 
