@@ -125,5 +125,3 @@ def frozen_bestn(
         np.mean([_tie_expected(labels, scores, group["rows"]) for group in groups])
     )
     return result
-
-[executed on device: autodl-container-ceda25je6k-ffe84779 (6dad3e05-41ae-4cc2-b58f-d95702e6e179)]
