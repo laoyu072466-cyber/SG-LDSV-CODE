@@ -1,0 +1,6 @@
+[Reading 2 lines from start (total: 2 lines, 0 remaining)]
+
+numpy>=2.0
+torch>=2.7
+
+[executed on device: autodl-container-ceda25je6k-ffe84779 (6dad3e05-41ae-4cc2-b58f-d95702e6e179)]
