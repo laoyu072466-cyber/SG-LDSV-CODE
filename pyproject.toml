@@ -1,0 +1,22 @@
+[Reading 18 lines from start (total: 18 lines, 0 remaining)]
+
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "sg-ldsv"
+version = "0.1.0"
+description = "SG-LDSV: gated local transition statistics for mathematical solution verification"
+readme = "README.md"
+requires-python = ">=3.10"
+license = {text = "Apache-2.0"}
+dependencies = [
+  "numpy>=2.0",
+  "torch>=2.7",
+]
+
+[tool.setuptools.packages.find]
+include = ["sg_ldsv*"]
+
+[executed on device: autodl-container-ceda25je6k-ffe84779 (6dad3e05-41ae-4cc2-b58f-d95702e6e179)]
