@@ -90,5 +90,3 @@ def collate_candidates(cache: HiddenCache, rows: Sequence[int]) -> tuple[torch.T
         hidden[batch_row, :length] = torch.from_numpy(value)
         mask[batch_row, :length] = True
     return hidden, mask
-
-[executed on device: autodl-container-ceda25je6k-ffe84779 (6dad3e05-41ae-4cc2-b58f-d95702e6e179)]
