@@ -1,5 +1,3 @@
-[Reading 3 lines from start (total: 3 lines, 0 remaining)]
-
 from .model import SGLDSVHead
 
 __all__ = ["SGLDSVHead"]
