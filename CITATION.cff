@@ -3,7 +3,9 @@ message: "If you use this software, please cite the SG-LDSV paper and this repos
 title: "SG-LDSV: Gated Local Transition Statistics for Mathematical Solution Verification"
 type: software
 authors:
-  - name: "SG-LDSV Authors"
+  - family-names: "Qiu"
+    given-names: "Chengyu"
+    alias: "QIUCHENGYU"
 repository-code: "https://github.com/laoyu072466-cyber/SG-LDSV-CODE"
 url: "https://github.com/laoyu072466-cyber/SG-LDSV-CODE"
 license: "Apache-2.0"
@@ -15,5 +17,3 @@ keywords:
   - hidden states
   - verifier
   - local transition statistics
-
-[executed on device: autodl-container-ceda25je6k-ffe84779 (6dad3e05-41ae-4cc2-b58f-d95702e6e179)]
