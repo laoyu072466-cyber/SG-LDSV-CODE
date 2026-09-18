@@ -1,5 +1,3 @@
-[Reading 140 lines from start (total: 140 lines, 0 remaining)]
-
 # SG-LDSV
 
 Clean reference implementation of **SG-LDSV**, a lightweight verifier for mathematical solution verification from frozen transformer hidden states.
@@ -140,5 +138,3 @@ SG-LDSV summarizes **local representation transitions**. The released implementa
 ## License
 
 Apache-2.0. See [LICENSE](LICENSE).
-
-[executed on device: autodl-container-ceda25je6k-ffe84779 (6dad3e05-41ae-4cc2-b58f-d95702e6e179)]
