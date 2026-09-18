@@ -1,0 +1,25 @@
+[Reading 21 lines from start (total: 21 lines, 0 remaining)]
+
+{
+  "method": "sg_ldsv",
+  "backbone_frozen": true,
+  "projection_dim": 128,
+  "transition_dim": 32,
+  "local_hidden_dim": 96,
+  "pair_cap_per_problem": 256,
+  "optimizer": "AdamW",
+  "learning_rate": 0.001,
+  "weight_decay": 0.0001,
+  "pair_batch_size": 32,
+  "max_epochs": 5,
+  "patience": 2,
+  "gradient_clip": 1.0,
+  "amp": false,
+  "head_dtype": "float32",
+  "checkpoint_selection": "validation Pair-Macro",
+  "checkpoint_tie_break": "earliest epoch",
+  "seeds": [42, 123, 456],
+  "protocol_sha256_original": "29a1131a746c5f969469021bf970a8dfd02d651bc4435d0e4b4da6d6082c673b"
+}
+
+[executed on device: autodl-container-ceda25je6k-ffe84779 (6dad3e05-41ae-4cc2-b58f-d95702e6e179)]
