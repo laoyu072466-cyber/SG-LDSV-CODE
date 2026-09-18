@@ -1,5 +1,3 @@
-[Reading 127 lines from start (total: 127 lines, 0 remaining)]
-
 from __future__ import annotations
 
 from collections import defaultdict
