@@ -1,0 +1,26 @@
+[Reading 22 lines from start (total: 22 lines, 0 remaining)]
+
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+dist/
+build/
+.venv/
+.env
+.DS_Store
+
+# Research artifacts
+data/
+caches/
+checkpoints/
+runs/
+scores/
+logs/
+reports/
+*.pt
+*.pth
+*.bin
+*.mmap
+
+[executed on device: autodl-container-ceda25je6k-ffe84779 (6dad3e05-41ae-4cc2-b58f-d95702e6e179)]
