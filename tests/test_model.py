@@ -20,5 +20,3 @@ def test_forward_shapes_and_finiteness():
     assert out["gate_values"].shape == (3, 5)
     assert torch.isfinite(out["score"]).all()
     assert out["local_score"][2].item() == 0.0
-
-[executed on device: autodl-container-ceda25je6k-ffe84779 (6dad3e05-41ae-4cc2-b58f-d95702e6e179)]
