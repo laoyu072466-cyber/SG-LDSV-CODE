@@ -1,5 +1,3 @@
-[Reading 144 lines from start (total: 144 lines, 0 remaining)]
-
 [Reading 140 lines from start (total: 140 lines, 0 remaining)]
 
 # SG-LDSV
