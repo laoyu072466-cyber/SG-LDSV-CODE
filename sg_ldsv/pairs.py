@@ -60,5 +60,3 @@ def build_problem_pairs(
         "uncapped_pair_count": uncapped_total,
         "final_pair_count": len(pairs),
     }
-
-[executed on device: autodl-container-ceda25je6k-ffe84779 (6dad3e05-41ae-4cc2-b58f-d95702e6e179)]
