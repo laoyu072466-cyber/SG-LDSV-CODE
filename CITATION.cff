@@ -1,0 +1,21 @@
+[Reading 17 lines from start (total: 17 lines, 0 remaining)]
+
+cff-version: 1.2.0
+message: "If you use this software, please cite the SG-LDSV paper and this repository."
+title: "SG-LDSV: Gated Local Transition Statistics for Mathematical Solution Verification"
+type: software
+authors:
+  - name: "SG-LDSV Authors"
+repository-code: "https://github.com/laoyu072466-cyber/SG-LDSV-CODE"
+url: "https://github.com/laoyu072466-cyber/SG-LDSV-CODE"
+license: "Apache-2.0"
+version: "0.1.0"
+date-released: 2026-09-18
+keywords:
+  - mathematical reasoning
+  - solution verification
+  - hidden states
+  - verifier
+  - local transition statistics
+
+[executed on device: autodl-container-ceda25je6k-ffe84779 (6dad3e05-41ae-4cc2-b58f-d95702e6e179)]
