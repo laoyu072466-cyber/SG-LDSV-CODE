@@ -1,5 +1,3 @@
-[Reading 28 lines from start (total: 28 lines, 0 remaining)]
-
 #!/usr/bin/env python
 from __future__ import annotations
 
