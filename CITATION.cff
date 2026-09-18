@@ -1,5 +1,3 @@
-[Reading 17 lines from start (total: 17 lines, 0 remaining)]
-
 cff-version: 1.2.0
 message: "If you use this software, please cite the SG-LDSV paper and this repository."
 title: "SG-LDSV: Gated Local Transition Statistics for Mathematical Solution Verification"
