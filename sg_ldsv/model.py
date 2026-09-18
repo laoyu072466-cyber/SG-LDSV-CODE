@@ -1,5 +1,3 @@
-[Reading 99 lines from start (total: 99 lines, 0 remaining)]
-
 from __future__ import annotations
 
 import torch
