@@ -1,5 +1,3 @@
-[Reading 22 lines from start (total: 22 lines, 0 remaining)]
-
 import torch
 
 from sg_ldsv.model import SGLDSVHead
