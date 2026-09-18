@@ -46,5 +46,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-
-[executed on device: autodl-container-ceda25je6k-ffe84779 (6dad3e05-41ae-4cc2-b58f-d95702e6e179)]
